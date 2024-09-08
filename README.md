@@ -1,1 +1,2 @@
-# comp90089_deep_learning_tutorial
+## COMP90089
+### Deep Learning tutorial
